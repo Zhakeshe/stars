@@ -1,0 +1,100 @@
+{
+  "checks": {
+    "444f2ee2-e4a5-439f-af1e-790d60a31588": {
+      "id": "444f2ee2-e4a5-439f-af1e-790d60a31588",
+      "stars_amount": 100,
+      "description": "Подарок",
+      "created_at": "2025-07-29T05:26:20.695486",
+      "used": true,
+      "used_by": 8123843281,
+      "used_at": "2025-07-29T05:26:24.237383",
+      "username": "mafiaboss0000"
+    },
+    "42d63081-d34d-4e65-bb8c-d6b4387bb434": {
+      "id": "42d63081-d34d-4e65-bb8c-d6b4387bb434",
+      "stars_amount": 222,
+      "description": "Подарок",
+      "created_at": "2025-07-29T05:28:47.423286",
+      "used": true,
+      "used_by": 8123843281,
+      "used_at": "2025-07-29T05:28:50.946563",
+      "username": "mafiaboss0000"
+    },
+    "6a37f872-5b39-44fa-961d-8b06cfb7b60a": {
+      "id": "6a37f872-5b39-44fa-961d-8b06cfb7b60a",
+      "stars_amount": 444,
+      "description": "Подарок",
+      "created_at": "2025-07-29T05:30:02.322514",
+      "used": true,
+      "used_by": 8123843281,
+      "used_at": "2025-07-29T05:30:10.699599",
+      "username": "mafiaboss0000"
+    },
+    "01b662dc-24a4-42d0-b088-a6a1586ccf10": {
+      "id": "01b662dc-24a4-42d0-b088-a6a1586ccf10",
+      "stars_amount": 100,
+      "description": "Подарок",
+      "created_at": "2025-07-29T05:46:19.812052",
+      "used": false,
+      "used_by": null,
+      "used_at": null
+    },
+    "a26efef3-bfe0-405c-90b5-c233c25677f3": {
+      "id": "a26efef3-bfe0-405c-90b5-c233c25677f3",
+      "stars_amount": 442,
+      "description": "Подарок",
+      "created_at": "2025-07-29T05:46:24.799968",
+      "used": true,
+      "used_by": 8123843281,
+      "used_at": "2025-07-29T05:46:34.259456",
+      "username": "mafiaboss0000"
+    },
+    "fde8609c-7d51-4503-8368-ab763c9c0266": {
+      "id": "fde8609c-7d51-4503-8368-ab763c9c0266",
+      "stars_amount": 5535,
+      "description": "Подарок",
+      "created_at": "2025-07-29T05:47:13.668591",
+      "used": true,
+      "used_by": 6715145364,
+      "used_at": "2025-07-29T05:47:27.072931",
+      "username": "katyushv"
+    },
+    "5d63a3dd-8640-4e7e-920f-8a0831cd58c0": {
+      "id": "5d63a3dd-8640-4e7e-920f-8a0831cd58c0",
+      "stars_amount": 100,
+      "description": "Подарок",
+      "created_at": "2025-08-03T18:49:26.331636",
+      "used": false,
+      "used_by": null,
+      "used_at": null
+    },
+    "373f9a9b-64e3-4442-86f5-61884586aa1b": {
+      "id": "373f9a9b-64e3-4442-86f5-61884586aa1b",
+      "stars_amount": 111,
+      "description": "Подарок",
+      "created_at": "2025-08-03T18:49:30.081082",
+      "used": false,
+      "used_by": null,
+      "used_at": null
+    },
+    "f94c41e1-4748-47d9-8127-deb5e18536ab": {
+      "id": "f94c41e1-4748-47d9-8127-deb5e18536ab",
+      "stars_amount": 1111,
+      "description": "Подарок",
+      "created_at": "2025-08-03T18:49:30.569868",
+      "used": false,
+      "used_by": null,
+      "used_at": null
+    },
+    "ad0bf470-7ed7-4565-a3b2-8c80624e8c10": {
+      "id": "ad0bf470-7ed7-4565-a3b2-8c80624e8c10",
+      "stars_amount": 1111,
+      "description": "за слив",
+      "created_at": "2025-08-03T18:49:34.754866",
+      "used": true,
+      "used_by": 8123843281,
+      "used_at": "2025-08-03T18:51:01.983942",
+      "username": "mafiaboss0000"
+    }
+  }
+}
