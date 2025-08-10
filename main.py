@@ -1,4 +1,4 @@
-э#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Главный файл NFT Gift Bot
 Модульная архитектура для Telegram бота работы с NFT-подарками
